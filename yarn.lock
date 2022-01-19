@@ -6109,15 +6109,6 @@ react-dom@^16.3.1:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react-dom@^16.4.0:
-  version "16.4.0"
-  resolved "https://registry.npmjs.org/react-dom/-/react-dom-16.4.0.tgz#099f067dd5827ce36a29eaf9a6cdc7cbf6216b1e"
-  dependencies:
-    fbjs "^0.8.16"
-    loose-envify "^1.1.0"
-    object-assign "^4.1.1"
-    prop-types "^15.6.0"
-
 react-dom@^16.5.0:
   version "16.5.0"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-16.5.0.tgz#57704e5718669374b182a17ea79a6d24922cb27d"
@@ -6333,7 +6324,7 @@ react@^16.3.1:
     object-assign "^4.1.1"
     prop-types "^15.6.0"
 
-react@^16.3.2, react@^16.4.0:
+react@^16.3.2:
   version "16.4.0"
   resolved "https://registry.npmjs.org/react/-/react-16.4.0.tgz#402c2db83335336fba1962c08b98c6272617d585"
   dependencies:
